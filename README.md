@@ -16,6 +16,7 @@ Taken from [Project Euler](https://projecteuler.net/)
 |008|Largest Product in a Series|[My Solution](./0x00/src/challenges/Chall008.java)|
 |009|Special Pythagorean Triplet|[My Solution](./0x00/src/challenges/Chall009.java)|
 |010|Summation of Primes|[My Solution](./0x00/src/challenges/Chall010.java)|
+|011|Largest Product in a Grid|[My Solution](./0x00/src/challenges/Chall011.java)|
 
 ## Software Developer
 Built by [javi](https://github.com/javierandres-dev/) :copyright: 2024  
